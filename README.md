@@ -45,7 +45,7 @@ while True:
 ## CLIENT:
 ![image](https://github.com/NAGINENIROHITH/EX-8/assets/118344049/36aba797-badd-46a0-be3e-f1b63d7dc5fc)
 
-##` SERVER:
+## SERVER:
 ![image](https://github.com/NAGINENIROHITH/EX-8/assets/118344049/c1c0a831-0e0e-4553-8f2f-8826750bd6c6)
 
 
